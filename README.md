@@ -11,3 +11,9 @@ DEPORTES:
 	Tennis
 	Esgrima
 	Boxeo
+
+FAVORITAS:
+
+	Bohemian Rapsody
+	With or without you
+	One
